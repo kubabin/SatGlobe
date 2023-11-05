@@ -32,6 +32,8 @@
           },
           "configurations": {
             "production": {
+              "baseHref": "/SatGlobe/",
+              "outputPath": "docs",
               "budgets": [
                 {
                   "type": "initial",
